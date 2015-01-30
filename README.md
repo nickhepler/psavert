@@ -8,12 +8,12 @@ The personal saving is calculated as a percentage of disposable personal income 
 
 ##Procedure
 ###Raw Data
-The raw data used for this project is located here.
+The raw data used for this project is located [here](https://github.com/nickhepler/psavert/blob/master/_data/PSAVERT.csv).
 The data was originally retrieved from the Federal Reserve Economic Data (FRED) Economic Data maintained by the Federal Reserve Bank of St. Louis. The following parameter selection was used:
 *   Units: Percent
 *   Frequency: Monthly
-*	Date Range: 1959-01-01 to 2014-11-01
-*	File Format: Text, Comma Seperated
+*	  Date Range: 1959-01-01 to 2014-11-01
+*	  File Format: Text, Comma Seperated
 The data was retrieved on December 28, 2014.
 
 Data Sheet
